@@ -1,7 +1,7 @@
 {
-    "name": "thecodingmachine/drupal",
+    "name": "sprak3000/drupal",
     "description": "This package is an installer that will download Drupal from the http://drupal.org website and unpack it at the root of your Composer project.",
-    "keywords": ["drupal", "thecodingmachine", "installer"],
+    "keywords": ["drupal", "sprak3000", "installer"],
     "homepage": "http://blog.thecodingmachine.com/content/installing-drupal-using-composer",
     "type": "archive-package",
     "license": "MIT",
@@ -18,7 +18,7 @@
     },
     "extra": {
         "url": "http://ftp.drupal.org/files/projects/drupal-7.23.zip",
-        "target-dir": ".",
+        "target-dir": "public",
         "omit-first-directory": "true"
     }
 }
