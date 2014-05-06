@@ -1,6 +1,6 @@
 {
     "name": "sprak3000/drupal",
-    "description": "This package is an installer that will download Drupal from the http://drupal.org website and unpack it at the root of your Composer project.",
+    "description": "This package is an installer that will download Drupal from the http://drupal.org website and unpack it in a folder called 'public' at the root of your Composer project.",
     "keywords": ["drupal", "sprak3000", "installer"],
     "homepage": "http://blog.thecodingmachine.com/content/installing-drupal-using-composer",
     "type": "archive-package",
