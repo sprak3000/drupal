@@ -28,7 +28,7 @@ Then create a *composer.json* file at the root of your project:
         }
     ],
     "require": {
-        "sprak3000/drupal": "7.23.x-dev"
+        "sprak3000/drupal": "7.28.x-dev"
     }
 }
 ```
@@ -39,7 +39,7 @@ and finally, run
 php composer.phar install
 ```
 
-This will download and unpack the Drupal archive in a `public` folder at the root of your project. In this example, the version downloaded is 7.23.
+This will download and unpack the Drupal archive in a `public` folder at the root of your project. In this example, the version downloaded is 7.28.
 
 Further Reading:
 ----------------
